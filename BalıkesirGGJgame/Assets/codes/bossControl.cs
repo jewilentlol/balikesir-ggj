@@ -4,14 +4,29 @@ using UnityEngine;
 
 public class bossControl : MonoBehaviour
 {
-    // Start is called before the first frame update
+    private Transform target;
+    [SerializeField] private float speed;
+    [SerializeField] private float maxRange;
+    [SerializeField] private float minRange;
+
     void Start()
     {
-        
+        target = FindObjectOfType<basicMovement>().transform;
     }
 
-    // Update is called once per frame
+
     void Update()
+    {
+        if (Vector3.Distance(target.position, transform.position) <= maxRange && Vector3.Distance(target.position, transform.position) >= minRange) 
+        {
+            followPlayer();
+        }
+    }
+    public void followPlayer() 
+    {
+        transform.position = Vector3.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+    }
+    private void OnCollisionEnter2D(Collision2D other) 
     {
         
     }

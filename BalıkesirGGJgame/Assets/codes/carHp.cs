@@ -26,7 +26,7 @@ public class carHp : MonoBehaviour
     {
         hearts[hp-1].enabled = false;
         hp--;
-
+        
     }
 
     public void antiBug() 
