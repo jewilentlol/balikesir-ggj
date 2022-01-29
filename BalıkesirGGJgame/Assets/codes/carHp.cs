@@ -1,0 +1,56 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+public class carHp : MonoBehaviour
+{
+    public Image[] hearts;
+    public int hp = 7;
+    int maxhp = 7;
+    public UIManager manager;
+    void Start()
+    {
+        manager = GetComponent<UIManager>();
+    }
+
+    void Update()
+    {
+        antiBug();
+        test();
+        dead();
+    }
+    public void Damage(int amount) 
+    {
+        hearts[hp-1].enabled = false;
+        hp--;
+
+    }
+
+    public void antiBug() 
+    {
+        if(hp > maxhp) 
+        {
+            hp = maxhp;
+        }
+    }
+    private void test() 
+    {
+        if (Input.GetKeyDown(KeyCode.T)) 
+        {
+            if (hp > 0) 
+            {
+                Damage(1);
+            }
+        }
+    }
+    public void dead() 
+    {
+        if (hp <= 0) 
+        {
+            gameObject.SetActive(false);
+            Time.timeScale = 0.0f;
+            manager.deathpanelMethod();
+        }
+    }
+}
