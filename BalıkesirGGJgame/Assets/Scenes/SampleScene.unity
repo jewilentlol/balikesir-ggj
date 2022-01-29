@@ -285,6 +285,8 @@ MonoBehaviour:
   - {fileID: 811065738}
   hp: 7
   manager: {fileID: 1431658871}
+  deathPanel: {fileID: 848597331}
+  car: {fileID: 21291834}
 --- !u!1 &277653959
 GameObject:
   m_ObjectHideFlags: 0

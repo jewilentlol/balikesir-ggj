@@ -9,6 +9,8 @@ public class carHp : MonoBehaviour
     public int hp = 7;
     int maxhp = 7;
     public UIManager manager;
+    public GameObject deathPanel;
+    public GameObject car;
     void Start()
     {
         manager = GetComponent<UIManager>();
@@ -46,11 +48,11 @@ public class carHp : MonoBehaviour
     }
     public void dead() 
     {
-        if (hp <= 0) 
+        if (hp <= 0)
         {
-            gameObject.SetActive(false);
+            car.SetActive(false);
             Time.timeScale = 0.0f;
-            manager.deathpanelMethod();
+            deathPanel.SetActive(true);
         }
     }
 }
