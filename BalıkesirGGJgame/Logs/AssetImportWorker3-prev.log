@@ -1,0 +1,575 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.7f1 (6bd9e232123f) revision 7068130'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'tr' Physical Memory: 8143 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+D:/unityproje/balıkesir ggj/BalıkesirGGJgame
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+55177
+Successfully changed project path to: D:/unityproje/balıkesir ggj/BalıkesirGGJgame
+D:/unityproje/balıkesir ggj/BalıkesirGGJgame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 144.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.7f1 (6bd9e232123f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unityproje/balıkesir ggj/BalıkesirGGJgame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8171 MB
+    Driver:   30.0.13037.1003
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014771 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 174.29 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1150ms)
+		BeginReloadAssembly (140ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (865ms)
+			LoadAssemblies (136ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (525ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (174ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (237ms)
+				ProcessInitializeOnLoadMethodAttributes (82ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009864 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 131.41 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.950 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3952ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (3611ms)
+			LoadAssemblies (837ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (602ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (2031ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (132ms)
+				BeforeProcessingInitializeOnLoad (118ms)
+				ProcessInitializeOnLoadAttributes (1705ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3955 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (225.5 KB). Loaded Objects now: 4405.
+Memory consumption went from 150.6 MB to 150.4 MB.
+Total: 4.712700 ms (FindLiveObjects: 0.469100 ms CreateObjectMapping: 0.123200 ms MarkObjects: 3.922800 ms  DeleteObjects: 0.196300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13214.219101 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_172.asset
+  artifactKey: Guid(0f7f8df0489de794682988dfe4ca99da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_172.asset using Guid(0f7f8df0489de794682988dfe4ca99da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0efcf6287cf7751ab5a77aded3cefbba') in 0.135460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_173.asset
+  artifactKey: Guid(cce11c3a5f0985b42befe2bcba4dcdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_173.asset using Guid(cce11c3a5f0985b42befe2bcba4dcdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a1f8f1c8a295a49395e272118b2f15') in 0.020658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007457 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_179.asset
+  artifactKey: Guid(69284216236ee8d4b9b85bc70ca47574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_179.asset using Guid(69284216236ee8d4b9b85bc70ca47574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572470e39950dbdb54425a40b1b5f8aa') in 0.022874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_181.asset
+  artifactKey: Guid(12c83baea457e9e48b01a134d2b9a965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_181.asset using Guid(12c83baea457e9e48b01a134d2b9a965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2ab7e6089a04b366616b7a1d48749a') in 0.018618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_184.asset
+  artifactKey: Guid(a93b4a927fa0af0439e041ef89dde0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_184.asset using Guid(a93b4a927fa0af0439e041ef89dde0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152ecd03979c2b693a82eee2d102eb79') in 0.015606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_186.asset
+  artifactKey: Guid(662086e9b2a4df2478a61ca60af02566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_186.asset using Guid(662086e9b2a4df2478a61ca60af02566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee9a76ecf9847898a81d49bc30fea30') in 0.017769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_183.asset
+  artifactKey: Guid(886402e3987e3c94398960a2ca4390cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_183.asset using Guid(886402e3987e3c94398960a2ca4390cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7cbe0d6e5b1dc2d62af04eff9958e0') in 0.032953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.344917 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_226.asset
+  artifactKey: Guid(076d0f37950708744ba4802624b0a160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_226.asset using Guid(076d0f37950708744ba4802624b0a160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7612cb90b42c68b55e02c9f173efee26') in 0.017490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_232.asset
+  artifactKey: Guid(2866f4d682e51d246bee517df4b55731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_232.asset using Guid(2866f4d682e51d246bee517df4b55731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79adbd1136e8b1079ad081f79d1be1e9') in 0.018556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_231.asset
+  artifactKey: Guid(37b3590b4a6914c4cabdbe35430f4b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_231.asset using Guid(37b3590b4a6914c4cabdbe35430f4b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eeafafc7db4d4827ee5b9f20932a84d') in 0.017450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_227.asset
+  artifactKey: Guid(9744602c4e448df4c9da8d3a5006f217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_227.asset using Guid(9744602c4e448df4c9da8d3a5006f217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5c6ed537210745e29abb72a2c66741') in 0.015169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.378461 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_271.asset
+  artifactKey: Guid(d8bcd906f61cdc54ab614fb072ee6772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_271.asset using Guid(d8bcd906f61cdc54ab614fb072ee6772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e08460bfa4c81497a933b0bf2ff0f37b') in 0.017388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_272.asset
+  artifactKey: Guid(f15e5b47aa096354792b3525303a8b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_272.asset using Guid(f15e5b47aa096354792b3525303a8b04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda47acff71be959ed99cb48d9727f77') in 0.016962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_288.asset
+  artifactKey: Guid(af76142243eb7dc468b3d14ffd8d10a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_288.asset using Guid(af76142243eb7dc468b3d14ffd8d10a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8210dd9f90c9066fd32dc35c91623e1f') in 0.020954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_294.asset
+  artifactKey: Guid(f4ce04344d41a924a8c81257809f9814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_294.asset using Guid(f4ce04344d41a924a8c81257809f9814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aad1ac4906ef9abae7920ce57d3f2ee') in 0.018018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_300.asset
+  artifactKey: Guid(3fdb2a08d8987744bac386d0081b044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_300.asset using Guid(3fdb2a08d8987744bac386d0081b044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d921f181c49475bd984bfb236594386') in 0.017131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_301.asset
+  artifactKey: Guid(9a414679d2db5844b84c636e059d2157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_301.asset using Guid(9a414679d2db5844b84c636e059d2157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e1074b1c94a14dc71ca301e19a9079') in 0.017584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_289.asset
+  artifactKey: Guid(19bdafdedb302e64cac4e843aba6560a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_289.asset using Guid(19bdafdedb302e64cac4e843aba6560a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92319bf001adf746c7911e9b33d8f3e5') in 0.018206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_293.asset
+  artifactKey: Guid(a1ee8cb8f874bf14a88853aa3ac58cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_293.asset using Guid(a1ee8cb8f874bf14a88853aa3ac58cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eab7cb4702dc0de71a4d4dde5a6a9b0') in 0.016436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_299.asset
+  artifactKey: Guid(5b8717db24252af4984eba451f473981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_299.asset using Guid(5b8717db24252af4984eba451f473981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbae0a03be3db614453ac22ea12c504') in 0.017771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_310.asset
+  artifactKey: Guid(f2eab653566e843428379a50f3ded666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_310.asset using Guid(f2eab653566e843428379a50f3ded666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd35d966a65bed4bf1aee30620aca3296') in 0.018345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_322.asset
+  artifactKey: Guid(1973116c154baae4a86527f222fccc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_322.asset using Guid(1973116c154baae4a86527f222fccc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb773605a5ae717a46ce4157a124fbd5') in 0.020959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_312.asset
+  artifactKey: Guid(97ee48773deb7164e8cd8d44b6bcc411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_312.asset using Guid(97ee48773deb7164e8cd8d44b6bcc411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ead9e1351f0167eb0fb8a58811c697e') in 0.022871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_315.asset
+  artifactKey: Guid(f98f1820b9b2e8145ad1ed8bfcc60e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_315.asset using Guid(f98f1820b9b2e8145ad1ed8bfcc60e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16495886dea3015410f84ab9f9d00aa') in 0.019786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_320.asset
+  artifactKey: Guid(ce097c4c8f4541f48ad36610f2c70f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_320.asset using Guid(ce097c4c8f4541f48ad36610f2c70f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4277437bd25cbde6fef04ef88ecf7508') in 0.016539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_319.asset
+  artifactKey: Guid(d4979a2f90be74644b3b31971c8d0129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_319.asset using Guid(d4979a2f90be74644b3b31971c8d0129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378600069a512126dcb48a31db0f6ee8') in 0.017228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_321.asset
+  artifactKey: Guid(e4f2d1cbcdb8eb745b0902ae7ed49a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_321.asset using Guid(e4f2d1cbcdb8eb745b0902ae7ed49a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1bc6c968ea230bf3ca1c7d1ab8a0a6') in 0.018107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_295.asset
+  artifactKey: Guid(2793efba90afebc4c8795d256cefe955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_295.asset using Guid(2793efba90afebc4c8795d256cefe955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2acdc36586940b646bb5b73d6414a01') in 0.016315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_306.asset
+  artifactKey: Guid(33e03c0f6464feb44be82af8e4852f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_306.asset using Guid(33e03c0f6464feb44be82af8e4852f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec756a91192c76c8869255aea79153c') in 0.018014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_296.asset
+  artifactKey: Guid(7cd1d3e8fd4e33746abd5679d8181893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_296.asset using Guid(7cd1d3e8fd4e33746abd5679d8181893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b341b6ec70325d0865e6d57dd73fbfad') in 0.016815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_302.asset
+  artifactKey: Guid(946aa536cc12d7d469b698bc70800d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_302.asset using Guid(946aa536cc12d7d469b698bc70800d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ea8ef6cd3206f00812f4e76e020003') in 0.018862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_285.asset
+  artifactKey: Guid(20fdf401ea3d6b745b9b58adb03a6d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_285.asset using Guid(20fdf401ea3d6b745b9b58adb03a6d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e533f65a4e0c88c9391837e8817d76c') in 0.017071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_303.asset
+  artifactKey: Guid(7205e9508d44d634a8db85f812d9a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_303.asset using Guid(7205e9508d44d634a8db85f812d9a804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb12006d42ac12ce669ad865274242c0') in 0.017410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_277.asset
+  artifactKey: Guid(892defadb2b3d1843bed11fd0367a005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_277.asset using Guid(892defadb2b3d1843bed11fd0367a005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1393500d2bf55f449fd0504a1636aed6') in 0.017425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_280.asset
+  artifactKey: Guid(e8cd56b30363b1f48b0503a7f9b9693a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_280.asset using Guid(e8cd56b30363b1f48b0503a7f9b9693a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3561c92d604cfa20328bbade203b00db') in 0.016422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_304.asset
+  artifactKey: Guid(7a60af0a31ef75c43bce2f87cf60d5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_304.asset using Guid(7a60af0a31ef75c43bce2f87cf60d5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c8c139c20e4598eae0bf87b03cb7a0') in 0.018847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_274.asset
+  artifactKey: Guid(c83350e2be908c544b3a22737e4302ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_274.asset using Guid(c83350e2be908c544b3a22737e4302ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d205ad051e8ce72cbad630fef05954') in 0.017692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_284.asset
+  artifactKey: Guid(495123b4bae15a14581a5ad1d9c4b37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/gecici asset/New Folder/0x72_DungeonTilesetII_v1.4_284.asset using Guid(495123b4bae15a14581a5ad1d9c4b37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e81d4f2b35c8afc5090e9a73ee409f') in 0.016072 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007812 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.548 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1549ms)
+		BeginReloadAssembly (338ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (23ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (165ms)
+		EndReloadAssembly (1073ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (301ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (550ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (385ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3938 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (192.4 KB). Loaded Objects now: 4410.
+Memory consumption went from 149.3 MB to 149.1 MB.
+Total: 5.463300 ms (FindLiveObjects: 0.474700 ms CreateObjectMapping: 0.126500 ms MarkObjects: 4.602800 ms  DeleteObjects: 0.257800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007613 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.367 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1367ms)
+		BeginReloadAssembly (193ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1043ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (277ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (546ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (384ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3938 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (192.5 KB). Loaded Objects now: 4412.
+Memory consumption went from 149.3 MB to 149.1 MB.
+Total: 4.943500 ms (FindLiveObjects: 0.676800 ms CreateObjectMapping: 0.126100 ms MarkObjects: 3.946200 ms  DeleteObjects: 0.192300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009057 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\unityproje\balıkesir ggj\BalıkesirGGJgame\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.561 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1562ms)
+		BeginReloadAssembly (214ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1193ms)
+			LoadAssemblies (144ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (645ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (443ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3938 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (192.3 KB). Loaded Objects now: 4414.
+Memory consumption went from 149.3 MB to 149.2 MB.
+Total: 6.691600 ms (FindLiveObjects: 0.722000 ms CreateObjectMapping: 0.195400 ms MarkObjects: 5.527500 ms  DeleteObjects: 0.243600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4091.538511 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+  artifactKey: Guid(85ac55597b97403c82fc6601a93cf241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg using Guid(85ac55597b97403c82fc6601a93cf241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f15e9ccdb6b0121238996cb6157fc4') in 0.158469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+  artifactKey: Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF using Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd181c4e8c74cf676d8a644eeefb725da') in 0.140917 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
