@@ -27,5 +27,9 @@ public class UIManager : MonoBehaviour
         Time.timeScale = 0.0f;
         deathPanel.SetActive(true);
     }
+    public void Quit() 
+    {
+        Application.Quit();
+    }
 }
 
