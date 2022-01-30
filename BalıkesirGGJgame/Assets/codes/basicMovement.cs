@@ -10,10 +10,12 @@ public class basicMovement : MonoBehaviour
     private int dir;
     [SerializeField] float startDashTime;
     Rigidbody2D rb;
+    private Animator anim;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         dashTime = startDashTime;
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -26,6 +28,9 @@ public class basicMovement : MonoBehaviour
         float yatay = Input.GetAxisRaw("Horizontal");
         float dikey = Input.GetAxisRaw("Vertical");
         rb.velocity = new Vector2(yatay*hiz,dikey*hiz);
+        anim.SetFloat("velocity",Mathf.Abs(yatay)+Mathf.Abs(dikey));
+        anim.SetFloat("moveX",yatay);
+        anim.SetFloat("moveY",dikey);
     }
     void Dash() 
     {

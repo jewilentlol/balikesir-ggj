@@ -1,0 +1,5370 @@
+fileFormatVersion: 2
+guid: f8c82b84cf93f9f49a67096f787c193d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce4dc8a0d305a0449f01163ec77ccf2
+      internalID: -359340279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f0b7d26d48c334f9bb61b048fd26bb
+      internalID: -1762786465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e8146251764d48a71e2ba3e3f0434
+      internalID: -1464871821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3457c9cf1503e4883619a4fc28c3af
+      internalID: 1756246050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bcf96c6edcb3458281ef87ab1a302
+      internalID: -1295241197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8868a628c4914197be9147ca82f64
+      internalID: 1931704031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795eb33e3d0eb0f44806c626316f7685
+      internalID: 2105874559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e27dee8fd0c742b51300427161865
+      internalID: -1210461858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c659747d43c8be04ebffffffee8c91f7
+      internalID: 7001840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13606a64e1ed61e4eaa08184a37511b0
+      internalID: 1421153327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f023950050514c8d3ef59f777c63c
+      internalID: 1370531418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292d9ec68d91d9c43ab66cc2faf346b7
+      internalID: -1882340422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b5518ccd239b14782e3132cfff96f4
+      internalID: -1158408787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202844f6407cdb941ab51d2cb87ece00
+      internalID: -118588176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d73e8fa5899a4196d8ecbb36ae25b
+      internalID: -2103011117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a2b1d4ff75b941ae4c3554ff8367b
+      internalID: 791575692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0436eea998e474aaef6198fb7940a4
+      internalID: 1762120328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f394e05e4c924b9ab42925057f26e
+      internalID: 239435455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa941193ba19847ba1801bfca5b703
+      internalID: 920145465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0403e5749bb549aa9214623be6344
+      internalID: 1038136212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29b8aac25f700f4f9f22821077cdebf
+      internalID: 1260586643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e29c8625f3f442aff8ac47bb50c87
+      internalID: -1868264142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8683d70ce08374dad734faa7696ea0
+      internalID: 2043120956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b09d505a42a66747981aba387609bf9
+      internalID: 1308166561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404476563eb43114db1d3233302ec7b9
+      internalID: -879998755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299448da072c0e3479e9612c043afde9
+      internalID: -1954361407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49894e26e1a7b254ab362323c717b736
+      internalID: 884740660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7cd6fed42ab804d85023119d93f433
+      internalID: 702297222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5495183765185d54491dc61cd3d492a5
+      internalID: -1505336370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38464a12316cb1444a10d2ad68d4ed14
+      internalID: 1565739398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ba38d9679d7840b49dd3e88f9f6fb
+      internalID: 1454836503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5a564c4f8ae848b132b57263ede77
+      internalID: 438483308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a0fd6ceafdbd4d86abbb65cb76aa1
+      internalID: -1796641365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108d109c6d22fa48b1d1fdd46f26cc6
+      internalID: -1019459471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2ceb677fa9b2458e230e68bbb6239
+      internalID: 779552290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ab825fc49c4640890ea01980edc39
+      internalID: 1784299657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e153c8cd3965b841990c6a73a1f5590
+      internalID: 88140075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b79f7eaf3700142a2fde3158e22af2
+      internalID: -1878175802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4db1200408f34d868a66498f71d4a
+      internalID: 1787094163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c87d8976b548b64db44e7c107efb14a
+      internalID: -185831343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af85ec52c891a1438ba9f6b1a50a29d
+      internalID: -941555860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e309bd545822d4c9605cbd90a4b6b8
+      internalID: 2062508733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187b227a52599fd428205be4ccfbb075
+      internalID: -85347378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594bc45bf6411e4c8bc0fdc2e3caecf
+      internalID: -761726887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644cf22ac27589643857076d98810414
+      internalID: -484364948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4fbcf2b2a11534faa224e4d7aaacb8
+      internalID: -2032687407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa26902a57a1944a3166d9b093202c
+      internalID: -1838176403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f14061892b8a24e92bc6963974c8a6
+      internalID: 300515950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b9d86eae9ff94bbd32e93fb5962e5
+      internalID: -1434558872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c884d3459b1654a9a4de7309fe2d2b
+      internalID: -1357776320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b3336baa3e1e43a59d04676871734
+      internalID: -135232889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0a9f7deada9734ba9e4e2b7f197fd4
+      internalID: 2003234529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8b2f312157844fa7dd19f81e98e94
+      internalID: 1312318334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d847e2fb741f0419544f9e81d883c5
+      internalID: -1426086627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b8dd421b988504488a7292cae682fe
+      internalID: 2080996928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f515b9c01b7249867f9508025dff2
+      internalID: -490971375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e3e98dce9a2340a0ed05c3caafd92
+      internalID: -1122341465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949259c2352c654bad77f97e1812841
+      internalID: 1921924875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9968dda210b859449fb969a744ff3b1
+      internalID: -2098921193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa21de37bce57458b1ce73ac48b41d
+      internalID: 357880646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5733ff361d9a6dc4e87fb04651e36064
+      internalID: 1397464515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e495d63c7f63541986841ab2685fda
+      internalID: 1916839316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28927b782239e441aa2cc904aa9de14
+      internalID: 1817352255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8670a8967c02f041af2777099d5e07c
+      internalID: -110738792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad5dbee5349efd49b3c05de3448db32
+      internalID: -2065720989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa83ea73dab6a844b7a2ed13b7e497a
+      internalID: 2011294123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f77499cec55bb4e820fb8d9f785bbe
+      internalID: 1871490535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb693291e200646489ef11301f468721
+      internalID: -471704117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990967b88d6069149a5876c361241c35
+      internalID: 1975914374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc040ce330fc28a4bb3098749ab15f05
+      internalID: -514520746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc9c0be6b2e7e409f8aa5b72815d9e
+      internalID: 1001342324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aad0656fdb10646aa38231289298cd
+      internalID: -1350166628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2106958b560f745a2aa7dc73401b61
+      internalID: 1331915765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2162f1a45856a4ca0acdfdf93b723b
+      internalID: 428243533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2104d7f5c2655d4fbe29586628f59c5
+      internalID: 1597262478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c043ce905fa33f4ba406054bc6f6df7
+      internalID: 2139434228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874d024ad9ed2b4bb6a29fa135dc916
+      internalID: -544397297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f0e4ebad18d140b96f0040890422e
+      internalID: 1852791777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058cb80f25adc2146a08446590f9d310
+      internalID: 1159658949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83a6102f1e2fc43a7a3813b28f4d26
+      internalID: -1605287334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83eb027febc944297f305482c78aec
+      internalID: 260357049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f939f3d5395334f8d361f27903c2eb
+      internalID: 1204954270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba510afdc331fa54f94db786012027a4
+      internalID: -1371998248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc46b1df9c5ac3408a76d43a4f467db
+      internalID: -631762682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0517f8a32732c45b66e392ef397bf4
+      internalID: -1745127567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d21472a566df4c9b804cca47ec950
+      internalID: -478614111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b04f293c901e4283ec61631d4a7a9
+      internalID: -28007144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b771370cf9d27045bbffae22d349708
+      internalID: 2107779399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_88
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e53f001efd6e4caaf446f678cb6f3
+      internalID: 719246107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771a3d3209095f74aa7809fc37e2b76f
+      internalID: 204406786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_90
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d464b392b81b86e469e446a6e0100d64
+      internalID: -1944729358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5325c43c728ef0449ea9e03cecfc69a
+      internalID: 610521560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08957d3138c44bf4b8b13b4f51e2db83
+      internalID: 2123339305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50a894c17c4884b87eb7a4d252197f
+      internalID: 1461029121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e801bec7ce0ce4eb412b3aba51c0d6
+      internalID: 2017958152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f45e3e554285347ae6c8abdb45808c
+      internalID: -1257109023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a48d77b880a234cb00c9b870de4990
+      internalID: 2076183463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72a656472a8b94a980ea2ef35d9205
+      internalID: 195870731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5420a0eedfa7014bba2190ed7fac51e
+      internalID: -215114918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daba94d0e0e58046959c19b2e101744
+      internalID: -555410380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787565b2e82edd04b98a3555cc2131cb
+      internalID: 1373995918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd218b87f42ab84d9a3e90b5278751f
+      internalID: 307330887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f654a2ef428eb4b83d9b6a09835032
+      internalID: 989841594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e137b2fdf504c479e55db9b1cfe8f3
+      internalID: 1362928503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6fee551d5a20640b8c0c639f615e1f
+      internalID: 602484370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_105
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b518360578a7e42bb9c3ebb08245dc
+      internalID: 388546771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b0e60ef32cde4e93e56a4b97fc4a6
+      internalID: 1485487116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_107
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf6cdddcdaec644b4c3f362ec9cfde
+      internalID: 647366526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0bba89aeab8b34da124d0b666eb889
+      internalID: -2072933522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2b175cf311ab745bfbd4c8bcd54b15
+      internalID: -601795398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f4981b802fd34fb071f000f4f56f4
+      internalID: 265177256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e323b41c1ff71394a9b372541dc22758
+      internalID: -1748092308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277d8050f03ad2e4cba81d1af80a6f6a
+      internalID: 1010279702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575773fd5d261c2469676764c67d97a5
+      internalID: -1144342602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22219e3b6d463114aa5b51f3af6016ad
+      internalID: 1468252452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6595d6bfbc356244bb71c454ab2ccac
+      internalID: 719326089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38bfbae120f8534fa7a0a0d609412b5
+      internalID: -1741996845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c04cae8e4d114c8dbb42fe3af7d5f
+      internalID: -1193423204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe6ff5064f8d1499eba356a4b6a7ff
+      internalID: 1258385983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13daade578b971498232e0edff7f4aa
+      internalID: 419465249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c7e3235fe82d46bea123999f62125
+      internalID: 1682042156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_121
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11473b768100bee41a468bad47f9957a
+      internalID: -2058373548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ddccab337f1da4e966408a746c306d
+      internalID: 1225396728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f033f1f173ff63a409a73a26b5ce9efd
+      internalID: 1247721919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789305425d86075479aa9dac0285205e
+      internalID: 1128348045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bbfd13b03d7af42abfc90fe7bce727
+      internalID: 769478052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66992101408c9c443ae08a5e448d7271
+      internalID: 1515025993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_127
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67699d84d5b3f974d9fbab083c7eac8c
+      internalID: -415085487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b437663b518a04db06e69a264e7753
+      internalID: 259668032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_129
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc56edc4071f47429bbf66d346c2d3e
+      internalID: -167383151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d57e9da732ca04180adf022437c0f1
+      internalID: -12155782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e1eb72e5444849973a61379fdae24
+      internalID: 166444876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c67d00724509408754e8265f51cfd
+      internalID: 970767134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_133
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4c110bb82b314ca37eaa7634dc506
+      internalID: 354182018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804790fe523870743b2f317453604a02
+      internalID: -1643620313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7809fbe4301d60408b94986d89c011c
+      internalID: -1281400529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e64f7ea09dae409669c82bf232db2
+      internalID: -743694491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76943128cce63fc45bded87a955af780
+      internalID: -861774209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6df27ec3a5ebc49a11e3899473de93
+      internalID: -2083865549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6324208684cdd8429cb1f365ad1c955
+      internalID: -2072891918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235f8a00ed2c66546966bfea29cf792f
+      internalID: -504975048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be4ec2644617c4db4d3a8abecf4720
+      internalID: -1879702869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940fc476c9c33a45af93f61dcd75829
+      internalID: 1233732533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721d037b5ca4b743ab7d0cc5912f8fe
+      internalID: -464254224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8284228f7a9baf4589f9172ada8f898
+      internalID: 433180613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4d4c7aca58394ebd7f803a34daa5e
+      internalID: -2080341741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6317d5e17e7c14ba75f7e1ea3986ce
+      internalID: -1972529915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_147
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f3055842da3d4fa273dceb813b734
+      internalID: -1986950154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901b3560f105d540b51f46860da94db
+      internalID: 1743060543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_149
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23e5b5cd3bdb74093117e6694121ad
+      internalID: -385588189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247f1aa0ef149846907618c71cd997e
+      internalID: -1611667734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef8b4ddabe6d6448c07ce477a52ec8
+      internalID: -298769460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc2c75fd160a46488949f31c50933fb
+      internalID: -1921487721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb7a5015809b4419fbcfdf66b6570d
+      internalID: 1350692911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586238aad904a6e4bb486454a5c5cd8e
+      internalID: -1864198287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2d469ba1066e4dad20f3234d0c452
+      internalID: 1055942507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0193a1a1506a3468f0b3ee39c1231e
+      internalID: -940831649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff3b46c082a5a489ce266a42ce0fd3
+      internalID: -1047804959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73149539cbf9e7a409af3a71b7de6288
+      internalID: -450164956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f24cf2b150b547876b5fa2a0ee627
+      internalID: 30744435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745613a5bb38ee4f807f8ebad46113c
+      internalID: 380764290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163830a76fcb8634788311fb211a43c8
+      internalID: -1906708758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067759097607c964fabfba426902c890
+      internalID: 1028234738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58057c099e10e5f4baa1ea6b9d3ddc9d
+      internalID: -1750676322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df961c6379dde54418c32f44c1b96b72
+      internalID: 1869757719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_165
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f93329c93ed98468c6a9b4da18a32f
+      internalID: -660658708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b90348ba02bff4c83891732e46aa09
+      internalID: 1260696498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1323e803346fe9428b4bc3b9cbf2966
+      internalID: -89099414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a371be3dff08a145bbfb2e12dc56412
+      internalID: 1343277960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_169
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c447540f4e893f14cb73bb54de5ba666
+      internalID: -1872057607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698284381f5b6ee4b9d5494ee7e2710e
+      internalID: 419390246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_171
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b67542a9b3bb47abd4a6283e8db60
+      internalID: -1237992880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e904cd2345c04438867cacad9b28e0
+      internalID: -1631941510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3684eee9b91fac340bc04b9e245cf07c
+      internalID: -1507474066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ce708631cba84aa1f14c2392e03ff
+      internalID: 1179978404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e9d280ecf400449023bc5de268de3
+      internalID: -384400159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582be8315d91fc4ebf252f38e9da307
+      internalID: 1366885643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_177
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234f3135e1f0684f970b1e6d1c3122b
+      internalID: 1780191962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e94b4f203fd84fa96bf9bf95e9a5a
+      internalID: 1824786862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_179
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2d6d99712abb45bf3f2dbf7a48f6a
+      internalID: -1024706549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7a43ab8e166f4185b206c16592873
+      internalID: 1512051353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_181
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2dff588e18d0644b4290dcc8d9eb49
+      internalID: -1260005328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3fe377997cc694681ce1e9664eb65f
+      internalID: -517081729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_183
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91598f70db016c46a5c57bd0a35a526
+      internalID: 784541037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761a3be75cf8c64a935fbafaac9e5cd
+      internalID: 1688019331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_185
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec012e388bc1e47bc7fb570f601fff
+      internalID: -1555483910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851884871bf69e48949fa9e4796eccc
+      internalID: -115758199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730f53cc6dfd0f4cb2f8aca0e4d9700
+      internalID: 1731151314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_188
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abff46ceb91a01499513e4f0301986c
+      internalID: 465644860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_189
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f4d37ba6558b4ea81c85c1635d483
+      internalID: -2136278386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_190
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc3da1899471f4f9fecdfb22d51162
+      internalID: 219287693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1afdf3bd6ba5e4f881deca209972ae
+      internalID: -1014226137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83dcbbdb145b547b91b937f7345448
+      internalID: -889208530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c116e7370bd78c479e17244ab3905f8
+      internalID: -514616315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_194
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73be4add8636c4aae2f63a9d5ee911
+      internalID: -37386658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f70523566f3c4ebbb9cae8a65dca7
+      internalID: -1228764214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38adf86c0b8286a468c7b8c763a96b41
+      internalID: 670866815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28868483bcc9ee4fac77ad91c8490bd
+      internalID: -231701262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948306456d7c5614e956c3292383b382
+      internalID: -691798921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_199
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b65be7888b2ca418accf45e4d77db4
+      internalID: 1937548200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100b9f473f84e847a9aa1fab2364425
+      internalID: 1148064569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_201
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e6e32773e44b43997fb8a5cbdb7d6
+      internalID: 1906699149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810c599f1d11dbf469f50c65b6ecf6fd
+      internalID: -1972480500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_203
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1ef0439c155c4dad1a4f3f8deef38
+      internalID: 371682278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_204
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61bf0823568b64897a17f577af30ed
+      internalID: 1823462336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_205
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ae1cfdf98bb940b8e2ebd2a41ad5a
+      internalID: -488323039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17976acadc5708b4b99b90c5adfd9ead
+      internalID: 1997577973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_207
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766849f6b8320bd42b2d9756c6292f3c
+      internalID: -2009791306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549362026791cd143b2cb4484ec3cfe5
+      internalID: -1390377668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fbc129f67999348ac5df0f5e406df5
+      internalID: 513348378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cdec6231108054b874d9127737b0b5
+      internalID: -1768280403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a738e43fd75fca4983953a80c952f51
+      internalID: 555099790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b71ae5a9d27e47bfb4af567fe56e1
+      internalID: -1276593916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_213
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96fc962af0a984fa152830b7e8956d
+      internalID: 857920165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9858e239034042e49ae80b2b92e92a55
+      internalID: 364514465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224853d27b2912545ada994b994b0947
+      internalID: 1720581253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_216
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78454d83bb63c5640a96e3f1c4ca6776
+      internalID: -1774889844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8428911e16726b34daa4d35aed40c35f
+      internalID: 2075706598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_218
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3979a5ebd36b81745bcd4ca1838a8dea
+      internalID: 1844396083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_219
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b8f06998b7fcd41a0c7e054fe48046
+      internalID: 493299407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_220
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19210f664a347b14dbbe827a4beea3c1
+      internalID: -1671091572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_221
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c2bd689fdb444d9bad3778db19b65
+      internalID: 1614457949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_222
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857bb92ce5a60c4d8e728a546d77382
+      internalID: -537166789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11e9a66508e7e4faf6a67a55909569
+      internalID: -1995673083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_224
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44a834f0febec43a010aaecd7a942b
+      internalID: 311551526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f1c424058a6746b1ad5e8bbfafb2c
+      internalID: -2128198664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4e8db33f121c4097cbff1a282efc4
+      internalID: 1376975882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb309026e1350354fa7275d06d6122da
+      internalID: 1277445260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6a0acf15614d418eeab93fad7a9c4
+      internalID: 1809982138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fc0ec7c0caca46bd007028f71254a
+      internalID: 838068499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_230
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb788ad78507a42948cc344b756ece
+      internalID: 1474389728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_231
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3935c1e33c0f75429bcffb9df82ea45
+      internalID: -1191133299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbde82ae119f1429ed9da94f9c11e0
+      internalID: 1793916773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_233
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015bbe0948d9b5340a41f8ce4dd59ed3
+      internalID: -1566747072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_234
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550951eb7268c494eaccf83582dc8f85
+      internalID: -1213722184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_235
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea4d2147ddb28448c2f5d071b3cf4b
+      internalID: -1892953915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2217f9eb2ada4d80019477a5f585c
+      internalID: 933417782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colorful-RPG-Assets_Tilemap.Dungeon-Purple_237
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a896442da4bcd45bde05bb02196bea
+      internalID: 976254099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_217: 2075706598
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_220: -1671091572
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_174: 1179978404
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_218: 1844396083
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_25: -1954361407
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_211: 555099790
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_21: -1868264142
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_69: -514520746
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_181: -1260005328
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_166: 1260696498
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_163: -1750676322
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_8: 7001840
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_171: -1237992880
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_129: -167383151
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_182: -517081729
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_188: 465644860
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_146: -1972529915
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_55: -490971375
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_38: 1787094163
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_20: 1260586643
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_98: -215114918
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_97: 195870731
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_103: 1362928503
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_170: 419390246
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_105: 388546771
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_126: 1515025993
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_194: -37386658
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_106: 1485487116
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_169: -1872057607
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_235: -1892953915
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_14: -2103011117
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_90: -1944729358
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_34: 779552290
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_233: -1566747072
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_74: 1597262478
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_237: 976254099
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_64: -2065720989
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_135: -1281400529
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_225: -2128198664
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_16: 1762120328
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_63: -110738792
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_180: 1512051353
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_198: -691798921
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_219: 493299407
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_78: 1159658949
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_137: -861774209
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_3: 1756246050
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_22: 2043120956
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_189: -2136278386
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_53: -1426086627
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_37: -1878175802
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_213: 857920165
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_227: 1277445260
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_99: -555410380
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_28: -1505336370
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_223: -1995673083
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_128: 259668032
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_119: 419465249
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_47: 300515950
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_10: 1370531418
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_111: -1748092308
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_142: 1233732533
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_202: -1972480500
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_108: -2072933522
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_236: 933417782
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_18: 920145465
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_94: 2017958152
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_12: -1158408787
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_29: 1565739398
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_41: 2062508733
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_164: 1869757719
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_23: 1308166561
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_102: 989841594
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_56: -1122341465
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_104: 602484370
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_36: 88140075
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_123: 1247721919
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_15: 791575692
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_191: -1014226137
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_165: -660658708
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_196: 670866815
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_177: 1780191962
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_68: 1975914374
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_85: -478614111
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_205: -488323039
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_221: 1614457949
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_122: 1225396728
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_51: 2003234529
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_121: -2058373548
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_184: 1688019331
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_197: -231701262
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_40: -941555860
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_46: -1838176403
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_17: 239435455
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_208: -1390377668
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_83: -631762682
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_173: -1507474066
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_48: -1434558872
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_76: -544397297
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_133: 354182018
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_60: 1397464515
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_130: -12155782
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_92: 2123339305
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_82: -1371998248
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_115: 719326089
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_57: 1921924875
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_200: 1148064569
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_152: -1921487721
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_79: -1605287334
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_107: 647366526
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_1: -1762786465
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_58: -2098921193
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_183: 784541037
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_215: 1720581253
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_199: 1937548200
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_84: -1745127567
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_13: -118588176
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_151: -298769460
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_35: 1784299657
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_59: 357880646
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_0: -359340279
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_120: 1682042156
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_192: -889208530
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_75: 2139434228
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_228: 1809982138
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_124: 1128348045
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_159: 30744435
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_141: -1879702869
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_7: -1210461858
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_157: -1047804959
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_43: -761726887
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_175: -384400159
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_222: -537166789
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_172: -1631941510
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_93: 1461029121
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_61: 1916839316
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_190: 219287693
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_45: -2032687407
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_167: -89099414
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_113: -1144342602
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_50: -135232889
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_201: 1906699149
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_2: -1464871821
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_91: 610521560
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_118: 1258385983
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_112: 1010279702
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_155: 1055942507
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_72: 1331915765
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_138: -2083865549
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_216: -1774889844
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_42: -85347378
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_71: -1350166628
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_86: -28007144
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_136: -743694491
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_6: 2105874559
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_54: 2080996928
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_185: -1555483910
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_87: 2107779399
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_88: 719246107
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_27: 702297222
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_149: -385588189
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_147: -1986950154
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_210: -1768280403
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_127: -415085487
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_39: -185831343
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_186: -115758199
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_212: -1276593916
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_143: -464254224
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_62: 1817352255
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_109: -601795398
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_89: 204406786
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_139: -2072891918
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_114: 1468252452
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_234: -1213722184
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_44: -484364948
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_209: 513348378
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_193: -514616315
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_26: 884740660
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_161: -1906708758
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_160: 380764290
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_65: 2011294123
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_145: -2080341741
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_77: 1852791777
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_206: 1997577973
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_32: -1796641365
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_31: 438483308
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_203: 371682278
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_224: 311551526
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_176: 1366885643
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_231: -1191133299
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_195: -1228764214
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_101: 307330887
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_95: -1257109023
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_232: 1793916773
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_117: -1193423204
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_204: 1823462336
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_67: -471704117
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_100: 1373995918
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_144: 433180613
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_187: 1731151314
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_168: 1343277960
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_156: -940831649
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_214: 364514465
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_49: -1357776320
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_140: -504975048
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_207: -2009791306
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_154: -1864198287
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_179: -1024706549
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_226: 1376975882
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_116: -1741996845
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_158: -450164956
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_153: 1350692911
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_4: -1295241197
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_70: 1001342324
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_52: 1312318334
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_81: 1204954270
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_229: 838068499
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_66: 1871490535
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_148: 1743060543
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_9: 1421153327
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_19: 1038136212
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_33: -1019459471
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_11: -1882340422
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_134: -1643620313
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_125: 769478052
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_96: 2076183463
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_5: 1931704031
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_110: 265177256
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_30: 1454836503
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_73: 428243533
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_80: 260357049
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_150: -1611667734
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_162: 1028234738
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_178: 1824786862
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_132: 970767134
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_230: 1474389728
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_24: -879998755
+      Colorful-RPG-Assets_Tilemap.Dungeon-Purple_131: 166444876
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

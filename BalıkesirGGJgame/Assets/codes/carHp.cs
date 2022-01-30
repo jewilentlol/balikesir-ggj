@@ -19,7 +19,6 @@ public class carHp : MonoBehaviour
     void Update()
     {
         antiBug();
-        test();
         dead();
     }
     public void Damage(int amount) 
@@ -34,16 +33,6 @@ public class carHp : MonoBehaviour
         if(hp > maxhp) 
         {
             hp = maxhp;
-        }
-    }
-    private void test() 
-    {
-        if (Input.GetKeyDown(KeyCode.T)) 
-        {
-            if (hp > 0) 
-            {
-                Damage(1);
-            }
         }
     }
     public void dead() 

@@ -18,6 +18,7 @@ public class enemyHurt : MonoBehaviour
     {
         hp.bossDamage(1);
     }
+    
     private void destroyed() 
     {
         if (hp.hp <= 0) 
